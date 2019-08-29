@@ -38,3 +38,6 @@ commander
       console.log(`⭐️ ${key} - ${configs[key].description}`)
     }
   })
+
+// 用于解析命令行参数
+commander.parse(process.argv)
