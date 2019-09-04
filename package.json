@@ -14,5 +14,7 @@
     "log-symbols": "^3.0.0",
     "ora": "^3.4.0",
     "shelljs": "^0.8.3"
-  }
+  },
+  "repository": "https://github.com/openrotary/vsconf-cli.git",
+  "author": "kungfuboy"
 }
