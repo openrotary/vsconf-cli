@@ -5,7 +5,6 @@ const download = require('download-git-repo')
 const ora = require('ora')
 const logSymbols = require('log-symbols')
 const chalk = require('chalk')
-
 const configs = require('./configs')
 const { getFiles, deleteIt, copy } = require('./utils')
 

@@ -1,11 +1,11 @@
 # 安装
 
 ```bash
-yarn global add vsconf-cli
+yarn global add @openrotary/vs-cli
 
 #or
 
-npm i vsconf-cli -g
+npm i @openrotary/vs-cli -g
 ```
 
 ## 使用
