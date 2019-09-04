@@ -14,6 +14,6 @@ npm i @openrotary/vs-cli -g
 # 列出所有命令, 可以看到模板的名字
 vs ls
 
-安装模板
+# 安装模板
 vs get <template>
 ```
